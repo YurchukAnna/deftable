@@ -1,2 +1,2 @@
 # deftable
-My product describe what i work.
+My product describe what i work with table.
